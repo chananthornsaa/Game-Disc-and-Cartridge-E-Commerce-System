@@ -1,5 +1,7 @@
 ## ชื่อโครงการ ระบบร้านขายแผ่นและตลับเกม (Game Disc and Cartridge E-Commerce System)
 
+https://ikla47.github.io/UniversityCSI204/doc/
+
 ## ข้อมูลสมาชิกทีม
 
 | เลขประจำตัว | ชื่อและนามสกุล | ตำแหน่ง |
@@ -222,5 +224,5 @@ flowchart TD
     class DB,Cache data;
 ```
 ```
-  https://ikla47.github.io/UniversityCSI204/doc/
+  
 
